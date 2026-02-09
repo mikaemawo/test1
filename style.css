@@ -1,0 +1,9 @@
+#box {
+    width: 147px;
+    height: 147px;
+    border: 2px solid rgb(92, 84, 84);
+}
+
+.active {
+    background-color: rgb(51, 44, 150);
+}
